@@ -1,3 +1,7 @@
+#fieldPassLama {
+  background-color: #efefef;
+}
+
 body[data-theme=dark] #fieldPassLama {
   background-color: #323742;
 }
