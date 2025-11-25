@@ -5,3 +5,11 @@
 body[data-theme=dark] #fieldPassLama {
   background-color: #323742;
 }
+
+#kategoriReport {
+  background-color: #deeeed;
+}
+
+body[data-theme=dark] #kategoriReport {
+  background-color: #24272c;
+}
