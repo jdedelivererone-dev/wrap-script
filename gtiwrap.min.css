@@ -13,3 +13,22 @@ body[data-theme=dark] #fieldPassLama {
 body[data-theme=dark] #kategoriReport {
   background-color: #24272c;
 }
+
+.txt-left-dt {
+    text-align: left;
+}
+
+.txt-center-dt {
+    text-align: center;
+}
+
+.col-kepada-dt {
+    width: 600px;
+    white-space: normal;
+}
+
+.col-perihal-dt {
+    width: 700px;
+    font-weight: bold;
+    white-space: normal;
+}
