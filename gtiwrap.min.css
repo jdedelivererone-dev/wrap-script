@@ -32,3 +32,11 @@ body[data-theme=dark] #kategoriReport {
     font-weight: bold;
     white-space: normal;
 }
+
+.dataTables_scrollBody {
+    overflow-y: hidden !important;
+}
+
+.dataTables_wrapper {
+    overflow: hidden;
+}
